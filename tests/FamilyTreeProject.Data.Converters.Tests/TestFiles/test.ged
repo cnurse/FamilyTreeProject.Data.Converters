@@ -1,0 +1,1834 @@
+﻿0 HEAD
+1 SOUR FTM
+2 VERS 23.1.0.480
+2 NAME Family Tree Maker for Mac
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 DATE 4 JUN 2018
+1 CHAR UTF-8
+1 FILE test.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+1 NAME Not Given
+0 @I601@ INDI
+1 NAME Charles Richmond /Nurse/
+2 SOUR @S86@
+1 SEX M
+1 EMIG Canadian Permanent Residency
+2 DATE 19 JUL 1984
+2 PLAC Vancouver, British Columbia, Canada
+3 MAP
+4 LATI N49.250000
+4 LONG W123.133324
+2 SOUR @S38@
+1 BIRT
+2 DATE 20 APR 1956
+2 PLAC Mortimer House, Bristol, England
+2 SOUR @S86@
+1 FAMS @F145@
+1 FAMC @F77@
+0 @I966@ INDI
+1 NAME Nora /Cardwell/
+2 SOUR @S82@
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 3052; Folio: 21; Page: 2
+3 DATA
+4 TEXT Name: Nora Cardwell   residence date:  1901  residence place:  Ropsley
+5 CONC , Lincolnshire, England  birth date:  24 Aug 1889  birth place:  Kirkh
+5 CONC am, Lancashire
+2 SOUR @S83@
+2 SOUR @S158@
+3 DATA
+4 TEXT Name: Nora Cardwell   christening date:  12 Sep 1889  christening plac
+5 CONC e:  Kirkham, Lancashire
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 12581; Schedule Number: 125
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Withycombe Raleigh, De
+5 CONC von, England  Name: Nora Cardwell   birth date:  24 Aug 1889  birth pl
+5 CONC ace:  Kirkham, Lancashire
+2 SOUR @S84@
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 2582; Folio: 28; Page: 3; GSU roll: 6097692
+2 SOUR @S85@
+2 SOUR @S101@
+2 SOUR @S158@
+2 SOUR @S101@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 SEX F
+1 CHR
+2 DATE 12 SEP 1889
+2 PLAC Kirkham, Lancashire, England
+3 MAP
+4 LATI N53.782730
+4 LONG W2.871488
+2 SOUR @S158@
+3 DATA
+4 TEXT Name: Nora Cardwell   christening date:  12 Sep 1889  christening plac
+5 CONC e:  Kirkham, Lancashire
+1 BIRT
+2 DATE 24 AUG 1889
+2 PLAC Kirkham, Lancashire, England
+3 MAP
+4 LATI N53.782730
+4 LONG W2.871488
+2 SOUR @S82@
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 3052; Folio: 21; Page: 2
+3 DATA
+4 TEXT Name: Nora Cardwell   residence date:  1901  residence place:  Ropsley
+5 CONC , Lincolnshire, England  birth date:  24 Aug 1889  birth place:  Kirkh
+5 CONC am, Lancashire
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 12581; Schedule Number: 125
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Withycombe Raleigh, De
+5 CONC von, England  Name: Nora Cardwell   birth date:  24 Aug 1889  birth pl
+5 CONC ace:  Kirkham, Lancashire
+2 SOUR @S84@
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 2582; Folio: 28; Page: 3; GSU roll: 6097692
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Elmdene, Littleham cum Exmouth, Devon, England
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 12581; Schedule Number: 125
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Withycombe Raleigh, De
+5 CONC von, England  Name: Nora Cardwell   birth date:  24 Aug 1889  birth pl
+5 CONC ace:  Kirkham, Lancashire
+1 CENS Age: 1; Relation: Daughter
+2 DATE 5 APR 1891
+2 PLAC Ropsley, Lincolnshire, England
+3 MAP
+4 LATI N52.883335
+4 LONG W0.516667
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 2582; Folio: 28; Page: 3; GSU roll: 6097692
+1 BAPM
+2 DATE 12 SEP 1889
+2 PLAC Kirkham, Lancashire, England
+3 MAP
+4 LATI N53.782730
+4 LONG W2.871488
+2 SOUR @S101@
+2 SOUR @S158@
+2 SOUR @S101@
+1 PROB
+2 DATE 13 SEP 1976
+2 PLAC Bristol, England
+2 SOUR @S85@
+1 DEAT Age at Death: 87
+2 DATE 10 JUL 1976
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S84@
+2 SOUR @S85@
+1 RESI
+2 DATE 5 APR 1891
+2 PLAC 13 High Street, Ropsley, Lincolnshire
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 2582; Folio: 28; Page: 3; GSU roll: 6097692
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Ropsley, Lincolnshire, England
+3 MAP
+4 LATI N52.883335
+4 LONG W0.516667
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 3052; Folio: 21; Page: 2
+3 DATA
+4 TEXT Name: Nora Cardwell   residence date:  1901  residence place:  Ropsley
+5 CONC , Lincolnshire, England  birth date:  24 Aug 1889  birth place:  Kirkh
+5 CONC am, Lancashire
+1 RESI
+2 DATE 31 MAR 1901
+2 PLAC 7 High Street, Ropsley, Lincolnshire
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 3052; Folio: 21; Page: 2
+3 DATA
+4 TEXT Name: Nora Cardwell   residence date:  1901  residence place:  Ropsley
+5 CONC , Lincolnshire, England  birth date:  24 Aug 1889  birth place:  Kirkh
+5 CONC am, Lancashire
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Exmouth, Devon, England
+3 MAP
+4 LATI N50.619431
+4 LONG W3.413250
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 12581; Schedule Number: 125
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Withycombe Raleigh, De
+5 CONC von, England  Name: Nora Cardwell   birth date:  24 Aug 1889  birth pl
+5 CONC ace:  Kirkham, Lancashire
+1 RESI
+2 DATE 1953
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1951
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1948
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1946
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1928
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1927
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1926
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1925
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1924
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1923
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1922
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1922
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1921
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1920
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 FAMS @F130@
+0 @I869@ INDI
+1 NAME Muriel Blanche  /Carter/
+2 SOUR @S153@
+3 PAGE England and Wales, Death Index: 1984-2005
+3 DATA
+4 TEXT death date:  13 Nov 1964  death place:  Bristol, Gloucestershire, Engl
+5 CONC and  birth date:  19 Apr 1922
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1922
+2 SOUR @S153@
+3 PAGE England and Wales, Death Index: 1984-2005
+3 DATA
+4 TEXT death date:  13 Nov 1964  death place:  Bristol, Gloucestershire, Engl
+5 CONC and  birth date:  19 Apr 1922
+1 DEAT
+2 DATE 13 NOV 1964
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+2 SOUR @S33@
+2 SOUR @S153@
+3 PAGE England and Wales, Death Index: 1984-2005
+3 DATA
+4 TEXT death date:  13 Nov 1964  death place:  Bristol, Gloucestershire, Engl
+5 CONC and  birth date:  19 Apr 1922
+1 FAMS @F77@
+0 @I711@ INDI
+1 NAME Eileen  /Harman/
+1 SEX F
+1 BIRT
+2 DATE 3 OCT 1963
+2 PLAC Vancouver, British Columbia, Canada
+3 MAP
+4 LATI N49.250000
+4 LONG W123.133324
+1 FAMS @F145@
+0 @I283@ INDI
+1 NAME Andrew George Richmond  /Nurse/
+1 SEX M
+1 BIRT
+2 DATE 7 AUG 1986
+2 PLAC Victoria, British Columbia, Canada
+3 MAP
+4 LATI N48.428627
+4 LONG W123.365837
+1 FAMC @F145@
+0 @I360@ INDI
+1 NAME Edward Richmond /Nurse/
+2 SOUR @S120@
+2 SOUR @S87@
+2 SOUR @S156@
+3 PAGE England &amp; Wales, Birth Index: 1916-2005
+3 DATA
+4 TEXT birth date:  30 Sep 1924  birth place:  Hanham, Gloucestershire, Engla
+5 CONC nd
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1924
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S120@
+2 SOUR @S156@
+3 PAGE England &amp; Wales, Birth Index: 1916-2005
+3 DATA
+4 TEXT birth date:  30 Sep 1924  birth place:  Hanham, Gloucestershire, Engla
+5 CONC nd
+1 BURI
+2 DATE 21 OCT 2011
+2 PLAC Canford Crematorium, Bristol, England
+1 RESI
+2 DATE 1953
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 DEAT
+2 DATE 4 OCT 2011
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+2 SOUR @S120@
+1 RESI
+2 DATE 1952
+2 PLAC Fylde Cottage, Hanham Green, Gloucestershire, England
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 FAMS @F77@
+1 FAMC @F130@
+0 @I914@ INDI
+1 NAME Jennifer Muriel Diane  /Nurse/
+1 SEX F
+1 BIRT
+2 DATE 22 06 1988
+2 PLAC Vancouver, British Columbia, Canada
+3 MAP
+4 LATI N49.250000
+4 LONG W123.133324
+1 FAMC @F145@
+0 @I382@ INDI
+1 NAME Robert Francis /Nurse/
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Robert Francis Nurse   marriage date:  17 Dec 187
+5 CONC 8  marriage place:  Christ Church, Hanham  birth date:  21 Aug 1855  b
+5 CONC irth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristol
+2 SOUR @S101@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S102@
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S102@
+2 SOUR @S102@
+2 SOUR @S82@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S102@
+2 SOUR @S104@
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Robert Francis Nurse   residence date:  1901  residence place
+5 CONC :  Hanham Abbots, Gloucestershire, England  birth date:  21 Aug 185
+5 CONC 5  birth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristo
+5 CONC l
+2 SOUR @S102@
+2 SOUR @S83@
+2 SOUR @S84@
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1298; Folio: 55; Page: 20; GSU roll: 542792
+2 SOUR @S103@
+2 SOUR @S102@
+2 SOUR @S104@
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+2 SOUR @S102@
+2 SOUR @S104@
+2 SOUR @S88@
+3 PAGE Class: RG10; Piece: 2554; Folio: 45; Page: 10; GSU roll: 835264
+2 SOUR @S154@
+3 DATA
+4 TEXT death date:  19 Jun 1923  death place:  Gloucestershire, England  Name
+5 CONC : Robert Francis Nurse
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S102@
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S104@
+1 SEX M
+1 BIRT
+2 DATE 21 AUG 1855
+2 PLAC Rose and Crown Inn, Two Mile Hill, St. George, Bristol
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Robert Francis Nurse   marriage date:  17 Dec 187
+5 CONC 8  marriage place:  Christ Church, Hanham  birth date:  21 Aug 1855  b
+5 CONC irth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristol
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+2 SOUR @S82@
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Robert Francis Nurse   residence date:  1901  residence place
+5 CONC :  Hanham Abbots, Gloucestershire, England  birth date:  21 Aug 185
+5 CONC 5  birth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristo
+5 CONC l
+2 SOUR @S84@
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1298; Folio: 55; Page: 20; GSU roll: 542792
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+2 SOUR @S37@
+2 SOUR @S88@
+3 PAGE Class: RG10; Piece: 2554; Folio: 45; Page: 10; GSU roll: 835264
+2 SOUR @S16@
+3 PAGE Robert Francis Nurse
+3 DATA
+4 TEXT Twenty First August 1855, Two Mile Hill
+1 BURI
+2 DATE 23 JUN 1923
+2 PLAC Christ Church, Hanham, Gloucestershire, England
+2 SOUR @S140@
+3 PAGE Monday June 25, 1923, p6, Late Mr. R. F Nurse
+3 DATA
+4 TEXT Story describes the funeral of Robert Francis Nurse at Christ Church H
+5 CONC anham on Saturday June 23rd
+3 NOTE @N23@
+3 _LINK http://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19230625/027/0006
+1 OCCU Maltster
+2 DATE 3 APR 1881
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+1 WILL
+2 DATE 5 JAN 1922
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+1 PROB
+2 DATE 31 JUL 1923
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+1 RESI
+2 DATE 1897
+2 PLAC Gloucestershire, England
+3 MAP
+4 LATI N51.880558
+4 LONG W1.987420
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+1 BAPM
+2 DATE 8 JUN 1856
+2 PLAC Two Mile Hill, St Michael, Gloucestershire, England
+2 SOUR @S101@
+2 SOUR @S102@
+1 DEAT Age at Death: 67
+2 DATE 19 JUN 1923
+2 PLAC Gloucestershire, England
+3 MAP
+4 LATI N51.880558
+4 LONG W1.987420
+2 SOUR @S84@
+2 SOUR @S37@
+2 SOUR @S154@
+3 DATA
+4 TEXT death date:  19 Jun 1923  death place:  Gloucestershire, England  Name
+5 CONC : Robert Francis Nurse
+1 RESI
+2 DATE 1923
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1910
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+1 RESI
+2 DATE 1906
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1902
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+2 SOUR @S104@
+1 RESI
+2 DATE 1894
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1885
+2 PLAC Gloucestershire, England
+3 MAP
+4 LATI N51.880558
+4 LONG W1.987420
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S104@
+1 OCCU Brewer
+2 DATE 5 APR 1891
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Robert Francis Nurse   marriage date:  17 Dec 187
+5 CONC 8  marriage place:  Christ Church, Hanham  birth date:  21 Aug 1855  b
+5 CONC irth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristol
+1 OCCU Maltster, Brewer and Corn Merchant
+2 DATE 2 APR 1911
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Robert Francis Nurse   marriage date:  17 Dec 187
+5 CONC 8  marriage place:  Christ Church, Hanham  birth date:  21 Aug 1855  b
+5 CONC irth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristol
+1 OCCU Maltster and Brewer
+2 DATE 31 MAR 1901
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Robert Francis Nurse   residence date:  1901  residence place
+5 CONC :  Hanham Abbots, Gloucestershire, England  birth date:  21 Aug 185
+5 CONC 5  birth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristo
+5 CONC l
+1 RESI Age: 35; Relation: Head
+2 DATE 5 APR 1891
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+1 RESI
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Robert Francis Nurse   residence date:  1901  residence place
+5 CONC :  Hanham Abbots, Gloucestershire, England  birth date:  21 Aug 185
+5 CONC 5  birth place:  Rose and Crown Inn, Two Mile Hill, St. George, Bristo
+5 CONC l
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI Rose and Crown Inn Age: 15; Relation: Son
+2 DATE 2 APR 1871
+2 PLAC St George, Gloucestershire, England
+3 MAP
+4 LATI N51.460461
+4 LONG W2.540750
+2 SOUR @S88@
+3 PAGE Class: RG10; Piece: 2554; Folio: 45; Page: 10; GSU roll: 835264
+1 RESI Age: 5; Relation: Visitor
+2 DATE 7 APR 1861
+2 PLAC Bradford on Avon, Wiltshire, England
+3 MAP
+4 LATI N51.346027
+4 LONG W2.253410
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1298; Folio: 55; Page: 20; GSU roll: 542792
+1 RESI Age: 25; Relation: Son in Law; Condition as to marriage: Married
+2 DATE 3 APR 1881
+2 PLAC Bitton, Gloucestershire, England
+3 MAP
+4 LATI N51.424755
+4 LONG W2.458034
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+1 RESI
+2 DATE 1914
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S104@
+1 RESI
+2 DATE 1922
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1921
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1920
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1884
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1918
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1905
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 OCCU Justice of the Peace
+2 DATE 1914
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+1 OCCU Maltster
+2 DATE 1914
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S104@
+1 FAMS @F85@
+0 @I790@ INDI
+1 NAME Sarah Elizabeth /Nurse/
+2 SOUR @S93@
+3 PAGE Class: HO107; Piece: 1944; Folio: 131; Page: 28; GSU roll: 221103-221104
+2 SOUR @S82@
+2 SOUR @S102@
+2 SOUR @S102@
+2 SOUR @S154@
+3 DATA
+4 TEXT Name: Sarah Elizabeth Nurse   death date:  29 Apr 1933  death place
+5 CONC :  Hanham, Gloucestershire
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  bi
+5 CONC rth place:  Hanham, Gloucestershire
+2 SOUR @S88@
+3 PAGE Source Citation: Class: RG10; Piece: 2499; Folio: 100; Page: 21; GSU roll: 835200
+3 DATA
+4 TEXT residence date:  1871  residence place:  Bitton, Gloucestershire, Engl
+5 CONC and  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  birth pla
+5 CONC ce:  Hanham, Gloucestershire
+2 SOUR @S102@
+2 SOUR @S102@
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   residence date:  1901  residence place:  Han
+5 CONC ham Abbots, Gloucestershire, England
+2 SOUR @S153@
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   death date:  29 Apr 1933  death place:  Hanh
+5 CONC am, Gloucestershire
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1698; Folio: 100; Page: 11; GSU roll: 542852
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+2 SOUR @S102@
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+2 SOUR @S102@
+2 SOUR @S102@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 SEX F
+1 BAPM
+2 DATE 29 OCT 1871
+2 PLAC St. George, Hanham, Gloucestershire, England
+2 SOUR @S102@
+1 BIRT
+2 DATE 11 MAR 1850
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S93@
+3 PAGE Class: HO107; Piece: 1944; Folio: 131; Page: 28; GSU roll: 221103-221104
+2 SOUR @S82@
+2 SOUR @S37@
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  bi
+5 CONC rth place:  Hanham, Gloucestershire
+2 SOUR @S88@
+3 PAGE Source Citation: Class: RG10; Piece: 2499; Folio: 100; Page: 21; GSU roll: 835200
+3 DATA
+4 TEXT residence date:  1871  residence place:  Bitton, Gloucestershire, Engl
+5 CONC and  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  birth pla
+5 CONC ce:  Hanham, Gloucestershire
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   residence date:  1901  residence place:  Han
+5 CONC ham Abbots, Gloucestershire, England
+2 SOUR @S153@
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   death date:  29 Apr 1933  death place:  Hanh
+5 CONC am, Gloucestershire
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1698; Folio: 100; Page: 11; GSU roll: 542852
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+1 PROB
+2 DATE 15 JUL 1933
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  bi
+5 CONC rth place:  Hanham, Gloucestershire
+1 RESI
+2 DATE 5 APR 1891
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+1 DEAT
+2 DATE 29 APR 1933
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S37@
+2 SOUR @S154@
+3 DATA
+4 TEXT Name: Sarah Elizabeth Nurse   death date:  29 Apr 1933  death place
+5 CONC :  Hanham, Gloucestershire
+2 SOUR @S153@
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   death date:  29 Apr 1933  death place:  Hanh
+5 CONC am, Gloucestershire
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   residence date:  1901  residence place:  Han
+5 CONC ham Abbots, Gloucestershire, England
+1 CENS Age: 41; Relation: Wife
+2 DATE 5 APR 1891
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S81@
+3 PAGE Class: RG12; Piece: 1941; Folio: 115; Page: 15; GSU roll: 6097051
+1 CENS Age: 30; Relation: Daughter; Condition as to marriage: Married
+2 DATE 3 APR 1881
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+1 RESI
+2 DATE 3 APR 1881
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S90@
+3 PAGE Class: RG11; Piece: 2445; Folio: 105; Page: 2; GSU roll: 1341588
+1 CENS Age 21: Maltster's Daughter
+2 DATE 2 APR 1871
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S88@
+3 PAGE Source Citation: Class: RG10; Piece: 2499; Folio: 100; Page: 21; GSU roll: 835200
+3 DATA
+4 TEXT residence date:  1871  residence place:  Bitton, Gloucestershire, Engl
+5 CONC and  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  birth pla
+5 CONC ce:  Hanham, Gloucestershire
+1 CENS Age: 11; Relation: Daughter
+2 DATE 7 APR 1861
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1698; Folio: 100; Page: 11; GSU roll: 542852
+1 RESI
+2 DATE 7 APR 1861
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S89@
+3 PAGE Class: RG 9; Piece: 1698; Folio: 100; Page: 11; GSU roll: 542852
+1 CENS Age: 1; Relation: Daughter
+2 DATE 31 MAR 1851
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S93@
+3 PAGE Class: HO107; Piece: 1944; Folio: 131; Page: 28; GSU roll: 221103-221104
+1 RESI
+2 DATE 31 MAR 1851
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S93@
+3 PAGE Class: HO107; Piece: 1944; Folio: 131; Page: 28; GSU roll: 221103-221104
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT residence date:  02 Apr 1911  residence place:  Hanham Abbots, Somerse
+5 CONC t, England  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  bi
+5 CONC rth place:  Hanham, Gloucestershire
+1 RESI
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT birth date:  11 Mar 1850  birth place:  Hanham, Gloucestershire  Name
+5 CONC : Sarah Elizabeth Nurse   residence date:  1901  residence place:  Han
+5 CONC ham Abbots, Gloucestershire, England
+1 RESI
+2 DATE 2 APR 1871
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S88@
+3 PAGE Source Citation: Class: RG10; Piece: 2499; Folio: 100; Page: 21; GSU roll: 835200
+3 DATA
+4 TEXT residence date:  1871  residence place:  Bitton, Gloucestershire, Engl
+5 CONC and  Name: Sarah Elizabeth Nurse   birth date:  11 Mar 1850  birth pla
+5 CONC ce:  Hanham, Gloucestershire
+1 RESI
+2 DATE 1926
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1921
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1928
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1927
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1925
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1923
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1922
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1920
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1918
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 FAMS @F85@
+0 @I557@ INDI
+1 NAME William Richmond /Nurse/
+2 SOUR @S102@
+2 SOUR @S83@
+2 SOUR @S104@
+2 SOUR @S85@
+2 SOUR @S104@
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT birth date:  1883  birth place:  Hanham Abbots, Gloucestershire  Name
+5 CONC : William Richmond Nurse   residence date:  02 Apr 1911  residence pla
+5 CONC ce:  Hanham Abbots, Somerset, England
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1901  residence place:  Hanha
+5 CONC m Abbots, Gloucestershire, England  birth date:  1883  birth place:  H
+5 CONC anham, Gloucestershire, England
+2 SOUR @S106@
+2 SOUR @S104@
+2 SOUR @S106@
+2 SOUR @S105@
+2 SOUR @S104@
+2 SOUR @S81@
+3 PAGE Source Citation: Class: RG12; Piece: 1953; Folio: 31; Page: 6; GSU roll: 6097063
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1891  residence place:  Long As
+5 CONC hton, Somerset, England  birth date:  1883  birth place:  Hanham, Glou
+5 CONC cestershire, England
+2 SOUR @S84@
+2 SOUR @S166@
+2 SOUR @S166@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 SEX M
+1 CENS
+2 DATE 5 APR 1891
+2 PLAC Long Ashton, Somerset, England
+3 MAP
+4 LATI N51.430145
+4 LONG W2.661841
+2 SOUR @S81@
+3 PAGE Source Citation: Class: RG12; Piece: 1953; Folio: 31; Page: 6; GSU roll: 6097063
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1891  residence place:  Long As
+5 CONC hton, Somerset, England  birth date:  1883  birth place:  Hanham, Glou
+5 CONC cestershire, England
+1 OCCU Assistant in Brewery
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT birth date:  1883  birth place:  Hanham Abbots, Gloucestershire  Name
+5 CONC : William Richmond Nurse   residence date:  02 Apr 1911  residence pla
+5 CONC ce:  Hanham Abbots, Somerset, England
+1 RESI
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT birth date:  1883  birth place:  Hanham Abbots, Gloucestershire  Name
+5 CONC : William Richmond Nurse   residence date:  02 Apr 1911  residence pla
+5 CONC ce:  Hanham Abbots, Somerset, England
+1 BAPM
+2 DATE 21 MAY 1882
+2 PLAC St. George, Hanham, Gloucestershire, England
+2 SOUR @S102@
+1 EVEN Administration to Nora Nurse, widow - £1150 0s 6d
+2 TYPE Probate
+2 DATE 1 MAY 1937
+2 PLAC Bristol, Gloucestershire, England
+3 MAP
+4 LATI N51.455814
+4 LONG W2.595393
+2 SOUR @S85@
+1 _MILT
+2 DATE BET 1914 AND 1920
+2 SOUR @S105@
+1 BIRT
+2 DATE 26 APR 1882
+2 PLAC Hanham, Gloucestershire, England
+3 MAP
+4 LATI N51.449608
+4 LONG W2.516387
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT birth date:  1883  birth place:  Hanham Abbots, Gloucestershire  Name
+5 CONC : William Richmond Nurse   residence date:  02 Apr 1911  residence pla
+5 CONC ce:  Hanham Abbots, Somerset, England
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1901  residence place:  Hanha
+5 CONC m Abbots, Gloucestershire, England  birth date:  1883  birth place:  H
+5 CONC anham, Gloucestershire, England
+2 SOUR @S81@
+3 PAGE Source Citation: Class: RG12; Piece: 1953; Folio: 31; Page: 6; GSU roll: 6097063
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1891  residence place:  Long As
+5 CONC hton, Somerset, England  birth date:  1883  birth place:  Hanham, Glou
+5 CONC cestershire, England
+2 SOUR @S84@
+1 EDUC
+2 DATE 5 APR 1891
+2 PLAC Long Ashton School, Long Ashton, Somerset
+2 SOUR @S81@
+3 PAGE Source Citation: Class: RG12; Piece: 1953; Folio: 31; Page: 6; GSU roll: 6097063
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1891  residence place:  Long As
+5 CONC hton, Somerset, England  birth date:  1883  birth place:  Hanham, Glou
+5 CONC cestershire, England
+1 DEAT Age at Death: 54
+2 DATE 14 MAR 1937
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S85@
+2 SOUR @S84@
+1 CENS
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1901  residence place:  Hanha
+5 CONC m Abbots, Gloucestershire, England  birth date:  1883  birth place:  H
+5 CONC anham, Gloucestershire, England
+1 CENS
+2 DATE 2 APR 1911
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S92@
+3 PAGE Source Citation: Class: RG14; Piece: 14744; Schedule Number: 91
+3 DATA
+4 TEXT birth date:  1883  birth place:  Hanham Abbots, Gloucestershire  Name
+5 CONC : William Richmond Nurse   residence date:  02 Apr 1911  residence pla
+5 CONC ce:  Hanham Abbots, Somerset, England
+1 OCCU Assistant Maltster and Brewer
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1901  residence place:  Hanha
+5 CONC m Abbots, Gloucestershire, England  birth date:  1883  birth place:  H
+5 CONC anham, Gloucestershire, England
+1 RESI
+2 DATE 31 MAR 1901
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S96@
+3 PAGE Source Citation: Class: RG13; Piece: 2346; Folio: 82; Page: 14
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1901  residence place:  Hanha
+5 CONC m Abbots, Gloucestershire, England  birth date:  1883  birth place:  H
+5 CONC anham, Gloucestershire, England
+1 RESI
+2 DATE 5 APR 1891
+2 PLAC Long Ashton, Somerset, England
+3 MAP
+4 LATI N51.430145
+4 LONG W2.661841
+2 SOUR @S81@
+3 PAGE Source Citation: Class: RG12; Piece: 1953; Folio: 31; Page: 6; GSU roll: 6097063
+3 DATA
+4 TEXT Name: Willm R Nurse   residence date:  1891  residence place:  Long As
+5 CONC hton, Somerset, England  birth date:  1883  birth place:  Hanham, Glou
+5 CONC cestershire, England
+1 OCCU Brewer
+2 DATE 1935
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S106@
+1 RESI
+2 DATE 1935
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S106@
+2 SOUR @S106@
+1 RESI
+2 DATE 1927
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1923
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S104@
+2 SOUR @S104@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1920
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1913
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+1 RESI
+2 DATE 1926
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1925
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1924
+2 PLAC Longwell Green, Gloucestershire, England
+3 MAP
+4 LATI N51.450764
+4 LONG W2.485336
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1922
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1921
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1915
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1932
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1931
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1930
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1929
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 RESI
+2 DATE 1928
+2 PLAC Hanham Green, Gloucestershire, England
+3 MAP
+4 LATI N51.431671
+4 LONG W2.510000
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+2 SOUR @S166@
+3 PAGE Gloucestershire Archives; Gloucester, England; Gloucestershire, England, Electoral Registers, 1832-1974
+1 FAMS @F130@
+1 FAMC @F85@
+0 @F130@ FAM
+1 HUSB @I557@
+1 WIFE @I966@
+1 CHIL @I360@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 14 APR 1914
+2 PLAC Totnes, Devon, England
+3 MAP
+4 LATI N50.416668
+4 LONG W3.633333
+2 SOUR @S83@
+2 SOUR @S83@
+0 @F145@ FAM
+1 HUSB @I601@
+1 WIFE @I711@
+1 CHIL @I283@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I914@
+2 _FREL Natural
+2 _MREL Natural
+0 @F85@ FAM
+1 HUSB @I382@
+1 WIFE @I790@
+1 CHIL @I557@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 17 DEC 1878
+2 PLAC Christ Church, Hanham, Gloucestershire, England
+2 SOUR @S102@
+2 SOUR @S83@
+2 SOUR @S37@
+2 SOUR @S18@
+3 PAGE Robert Francis Nurse and Sarah Elizabeth Nurse
+3 DATA
+4 TEXT Dec 17th 1878 Robert Francis Nurse Sarah Elizabeth Nurse
+2 SOUR @S102@
+0 @F77@ FAM
+1 HUSB @I360@
+1 WIFE @I869@
+1 CHIL @I601@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 5 FEB 1955
+2 PLAC Kingswood, Gloucestershire, England
+2 SOUR @S87@
+0 @S16@ SOUR
+1 TITL Original Birth Certificate
+1 PUBL Name: Name: General Register Office;;
+0 @S18@ SOUR
+1 AUTH General Register Office
+1 TITL Original Marriage Certificate
+0 @S33@ SOUR
+1 AUTH Charles Richmond Nurse
+1 TITL Personal Notes (Charles R Nurse)
+0 @S37@ SOUR
+1 AUTH William Richmond Nurse, (1882-1937)
+1 TITL Personal Notes (William R Nurse)
+1 NOTE
+2 CONC Edited by Edward Richmond Nurse (1924 - )
+0 @S38@ SOUR
+1 AUTH Employment and Immigration Canada
+1 TITL Record of Landing
+0 @S81@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1891 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 5;
+1 REPO @R29@
+0 @S82@ SOUR
+1 AUTH FreeBMD
+1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 6;
+1 REPO @R29@
+0 @S83@ SOUR
+1 AUTH FreeBMD
+1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 6;
+1 REPO @R29@
+0 @S84@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, Death Index, 1916-2006
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 7;
+1 REPO @R29@
+0 @S85@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, National Probate Calendar (Index of Wills and Adminis
+2 CONC trations), 1858-1966
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 201
+2 CONC 0;
+1 REPO @R29@
+0 @S86@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, Birth Index, 1916-2005
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 8;
+1 REPO @R29@
+0 @S87@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, Marriage Index, 1916-2005
+1 PUBL Name: Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date: 20
+2 CONC 10;
+1 REPO @R29@
+0 @S88@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1871 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 4;
+1 REPO @R29@
+0 @S89@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1861 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 5;
+1 REPO @R29@
+0 @S90@ SOUR
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 TITL 1881 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 4;
+1 REPO @R29@
+0 @S92@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1911 England Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 011;
+1 REPO @R29@
+0 @S93@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1851 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 5;
+1 REPO @R29@
+0 @S96@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1901 England Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 5;
+1 REPO @R29@
+0 @S101@ SOUR
+1 AUTH Ancestry.com
+1 TITL England, Select Births and Christenings, 1538-1975
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 014;
+1 REPO @R29@
+0 @S102@ SOUR
+1 AUTH Ancestry.com
+1 TITL England, Select Bristol Parish Registers, 1538-1900
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 014;
+1 REPO @R29@
+0 @S103@ SOUR
+1 AUTH Ancestry.com
+1 TITL England, Select Marriages, 1538–1973
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 014;
+1 REPO @R29@
+0 @S104@ SOUR
+1 AUTH Ancestry.com
+1 TITL UK, City and County Directories, 1766 - 1946
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 013;
+1 REPO @R29@
+0 @S105@ SOUR
+1 AUTH Ancestry.com
+1 TITL British Army WWI Medal Rolls Index Cards, 1914-1920
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 8;
+1 REPO @R29@
+0 @S106@ SOUR
+1 TITL UK, Midlands and Various UK Trade Directories, 1770-1941
+1 REPO @R29@
+0 @S120@ SOUR
+1 AUTH Ancestry.com
+1 TITL England and Wales, Death Index, 2007-2013
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 014;
+1 REPO @R29@
+0 @S140@ SOUR
+1 TITL Western Daily Press
+1 REPO @R30@
+0 @S153@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, Civil Registration Death Index, 1916-2007
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 7;
+1 REPO @R32@
+1 NOTE
+2 CONC General Register Office. <i>England and Wales Civil Registration Index
+2 CONC es</i>. London, England: General Register Office. © Crown copyright. P
+2 CONC ublished by permission of the Controller of HMSO and the Office for Na
+2 CONC tional Statistics. You must not copy on, transfer or reproduce record
+2 CONC s without the prior permission of ONS. Indexes created by the Genera
+2 CONC l Register Office, in London, England.
+0 @S154@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, National Probate Calendar (Index of Wills and Adminis
+2 CONC trations), 1858-1966, 1973-1995
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 010;
+1 REPO @R32@
+1 NOTE
+2 CONC Principal Probate Registry. <i>Calendar of the Grants of Probate and L
+2 CONC etters of Administration made in the Probate Registries of the High Co
+2 CONC urt of Justice in England</i>. London, England © Crown copyright.
+0 @S156@ SOUR
+1 AUTH Ancestry.com
+1 TITL England & Wales, Civil Registration Birth Index, 1916-2005
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 8;
+1 REPO @R32@
+1 NOTE
+2 CONC General Register Office. <i>England and Wales Civil Registration Index
+2 CONC es</i>. London, England: General Register Office. <p>© Crown copyright
+2 CONC . Published by permission of the Controller of HMSO and the Office fo
+2 CONC r National Statistics. You must not copy on, transfer, or reproduce re
+2 CONC cords without the prior permission of ONS. Indexes created by the Gene
+2 CONC ral Register Office, in London, England.</p>
+0 @S158@ SOUR
+1 AUTH Ancestry.com
+1 TITL Lancashire, England, Church of England Births and Baptisms, 1813-1911
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 012;
+1 REPO @R32@
+1 NOTE
+2 CONC <i>Lancashire Anglican Parish Registers</i>. Preston, England: Lancash
+2 CONC ire Archives.
+0 @S166@ SOUR
+1 AUTH Ancestry.com
+1 TITL Gloucestershire, England, Electoral Registers, 1832-1974
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 016;
+1 REPO @R32@
+0 @R29@ REPO
+1 NAME Ancestry.com
+1 ADDR http://www.Ancestry.com
+1 EMAIL
+1 PHON
+0 @R30@ REPO
+1 NAME www.britishnewspaperarchive.co.uk
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R32@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @N23@ NOTE
+1 CONC The story lists family members present as will as Council officials
+0 TRLR

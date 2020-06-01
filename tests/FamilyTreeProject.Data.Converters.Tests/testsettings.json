@@ -1,0 +1,8 @@
+﻿{
+    "filePath": "TestFiles",
+    "sqlServerConnectionString": "Server=.;Database=FamilyTreeProject;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "CosmosDB:Endpoint": "https://myfamilytreeproject.documents.azure.com:443/",
+    "CosmosDB:Key": "7ViS74YRiKxqNuU1YECxQsO27gwJHki0z7w1wcJO1XfHeNyCg9NuVFvcMFbtieE7icNY7P6iRpV7anSCQWWORQ==",
+    "CosmosDB:DatabaseId": "myfamilytreeproject",
+    "CosmosDB:CollectionId": "test"
+}

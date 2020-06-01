@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="testSettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\FamilyTreeProject.Converters\src\FamilyTreeProject.Data.Converters\FamilyTreeProject.Data.Converters.csproj">
+      <Project>{4C526C4B-FF25-4886-BEC2-3F735098CE23}</Project>
+      <Name>FamilyTreeProject.Data.Converters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FamilyTreeProject.Data\src\FamilyTreeProject.Data.CosmosDB\FamilyTreeProject.Data.CosmosDB.csproj" />
+    <ProjectReference Include="..\..\..\FamilyTreeProject.Data\src\FamilyTreeProject.Data.EntityFramework\FamilyTreeProject.Data.EntityFramework.csproj">
+      <Project>{BC3470A2-975D-494B-80C9-8CFA2967DBA4}</Project>
+      <Name>FamilyTreeProject.Data.EntityFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FamilyTreeProject.Data\src\FamilyTreeProject.Data.GEDCOM\FamilyTreeProject.Data.GEDCOM.csproj">
+      <Project>{BAB9D323-C749-4D4A-BD3D-F651F1EB61E8}</Project>
+      <Name>FamilyTreeProject.Data.GEDCOM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FamilyTreeProject.Data\src\FamilyTreeProject.Data.Json\FamilyTreeProject.Data.Json.csproj">
+      <Project>{F38D0F8D-5F6F-459C-8D40-125418696AF6}</Project>
+      <Name>FamilyTreeProject.Data.Json</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\FamilyTreeProject.DomainServices\src\FamilyTreeProject.DomainServices\FamilyTreeProject.DomainServices.csproj">
+      <Project>{A314288F-8F2A-4EDA-B14F-F5237DDFADC4}</Project>
+      <Name>FamilyTreeProject.DomainServices</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
