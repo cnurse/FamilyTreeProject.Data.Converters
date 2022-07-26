@@ -1,6 +1,5 @@
-﻿using FamilyTreeProject.Core;
-using FamilyTreeProject.Core.Data;
-using FamilyTreeProject.Data.Common;
+﻿using FamilyTreeProject.Common.Data;
+using FamilyTreeProject.Common.Models;
 using FamilyTreeProject.Data.Converters.Tests.Helpers;
 using FamilyTreeProject.Data.EntityFramework;
 using FamilyTreeProject.DomainServices;
@@ -17,7 +16,7 @@ namespace FamilyTreeProject.Data.Converters.Tests
 //        [TestCase("FamilyTreeProject", "Harman", "The Harman family of Icklesham")]
 //        [TestCase("FamilyTreeProject", "Taylor", "The Taylor family of Winsley")]
 //        [Ignore("Ignore Integration Tests")]
-        [TestCase("FamilyTreeProject", "Test", "A subset of the Nurse family")]
+//        [TestCase("FamilyTreeProject", "Test", "A subset of the Nurse family")]
         public void Convert_GEDCOM_To_SqlLite(string dbName, string name, string title)
         {
             using (var factory = new FamilyTreeSqlLiteContextFactory())
@@ -55,7 +54,7 @@ namespace FamilyTreeProject.Data.Converters.Tests
 //        [TestCase("Harman", "The Harman family of Icklesham")]
 //        [TestCase("Taylor", "The Taylor family of Winsley")]
 //        [Ignore("Ignore Integration Tests")]
-        [TestCase("Test", "A subset of the Nurse family")]
+//        [TestCase("Test", "A subset of the Nurse family")]
         public void Convert_GEDCOM_To_SqlServer(string name, string title)
         {
             using (var factory = new FamilyTreeSqlServerContextFactory())

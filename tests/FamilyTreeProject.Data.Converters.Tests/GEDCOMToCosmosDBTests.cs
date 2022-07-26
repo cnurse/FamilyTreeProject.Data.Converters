@@ -1,13 +1,8 @@
 ﻿using System;
-using System.IO;
-using System.Threading.Tasks;
-using FamilyTreeProject.Core;
-using FamilyTreeProject.Core.Data;
-using FamilyTreeProject.Data.Common;
+using FamilyTreeProject.Common.Data;
+using FamilyTreeProject.Common.Models;
 using FamilyTreeProject.Data.CosmosDB;
-using FamilyTreeProject.Data.Json;
 using FamilyTreeProject.DomainServices;
-using Microsoft.Azure.Documents;
 using Microsoft.Azure.Documents.Client;
 using NUnit.Framework;
 
@@ -15,8 +10,10 @@ namespace FamilyTreeProject.Data.Converters.Tests
 {
     public class GEDCOMToCosmosDBTests : ConverterTestBase
     {
-        [TestCase("Test", "A subset of the Nurse family")]
-        public void Convert_GEDCOM_To_CosmosDB(string name, string title)
+        [TestCase("Cardwell", "The Cardwell Family of Kirkham, Lancashire", "charlesnurse@hotmail.com")]
+        [TestCase("Nurse", "The Nurse Family of Hanham, Gloucestershire", "charlesnurse@gmail.com")]
+        [TestCase("Taylor", "The Taylor Family of Winsley, Wiltshire", "charlesnurse@gmail.com")]
+        public void Convert_GEDCOM_To_CosmosDB(string name, string title, string owner)
         {
             //Arrange
             IUnitOfWork unitOfWork = CreateUnitOfWork();
@@ -28,7 +25,7 @@ namespace FamilyTreeProject.Data.Converters.Tests
             var tree = new Tree()
             {
                 Name = name, 
-                OwnerId = "test",
+                OwnerId = owner,
                 Title = title
             };
 

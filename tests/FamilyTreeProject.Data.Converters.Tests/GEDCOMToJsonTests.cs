@@ -1,7 +1,6 @@
 ﻿using System.IO;
-using FamilyTreeProject.Core;
-using FamilyTreeProject.Core.Data;
-using FamilyTreeProject.Data.Common;
+using FamilyTreeProject.Common.Data;
+using FamilyTreeProject.Common.Models;
 using FamilyTreeProject.Data.Json;
 using FamilyTreeProject.DomainServices;
 using NUnit.Framework;

@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Data.Common;
 using FamilyTreeProject.Data.EntityFramework;
-using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 
 namespace FamilyTreeProject.Data.Converters.Tests.Helpers

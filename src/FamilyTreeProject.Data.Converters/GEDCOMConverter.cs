@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using FamilyTreeProject.Core;
-using FamilyTreeProject.Core.Common;
-using FamilyTreeProject.Data.Common;
+using FamilyTreeProject.Common.Data;
+using FamilyTreeProject.Common.Models;
 using FamilyTreeProject.DomainServices;
 using FamilyTreeProject.DomainServices.Common;
 using FamilyTreeProject.GEDCOM;

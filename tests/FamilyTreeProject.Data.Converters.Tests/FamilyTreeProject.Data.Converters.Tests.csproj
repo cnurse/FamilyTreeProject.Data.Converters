@@ -1,20 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latestmajor</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="FamilyTreeProject.Data.CosmosDB" Version="1.0.0" />
-    <PackageReference Include="FamilyTreeProject.Data.EntityFramework" Version="1.0.0" />
-    <PackageReference Include="FamilyTreeProject.Data.GEDCOM" Version="1.0.0" />
-    <PackageReference Include="FamilyTreeProject.Data.Json" Version="1.0.0" />
-    <PackageReference Include="FamilyTreeProject.DomainServices" Version="1.0.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.4" />
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.4" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.4" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.6.1" />
-    <PackageReference Include="NUnit" Version="3.12.0" />
-    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="FamilyTreeProject.Common" Version="1.1.0-alpha-03" />
+    <PackageReference Include="FamilyTreeProject.Data.CosmosDB" Version="1.1.0-alpha-01" />
+    <PackageReference Include="FamilyTreeProject.Data.EntityFramework" Version="1.0.0-alpha-03" />
+    <PackageReference Include="FamilyTreeProject.Data.GEDCOM" Version="1.1.0-alpha-03" />
+    <PackageReference Include="FamilyTreeProject.Data.Json" Version="1.0.0-alpha-01" />
+    <PackageReference Include="FamilyTreeProject.DomainServices" Version="1.0.0-alpha-02" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.2.0" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\src\FamilyTreeProject.Data.Converters\FamilyTreeProject.Data.Converters.csproj" />

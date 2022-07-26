@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using FamilyTreeProject.Data.Common;
+using FamilyTreeProject.Common.Data;
 using FamilyTreeProject.Data.GEDCOM;
 using Microsoft.Extensions.Configuration;
 using NUnit.Framework;
