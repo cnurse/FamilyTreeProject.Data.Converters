@@ -11,7 +11,7 @@ namespace FamilyTreeProject.Data.Converters.Tests
     //[Ignore("Ignore Integration Tests")]
     public class GEDCOMToJsonTests : ConverterTestBase
     {
-        [TestCase("Test", "A subset of the Nurse family")]
+//        [TestCase("Test", "A subset of the Nurse family")]
         public void Convert_GEDCOM_To_Json(string name, string title)
         {
             //Arrange

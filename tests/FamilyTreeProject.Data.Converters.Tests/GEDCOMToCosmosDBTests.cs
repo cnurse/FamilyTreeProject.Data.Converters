@@ -8,11 +8,13 @@ using NUnit.Framework;
 
 namespace FamilyTreeProject.Data.Converters.Tests
 {
+    [TestFixture]
+    //[Ignore("Ignore Integration Tests")]
     public class GEDCOMToCosmosDBTests : ConverterTestBase
     {
-        [TestCase("Cardwell", "The Cardwell Family of Kirkham, Lancashire", "charlesnurse@hotmail.com")]
-        [TestCase("Nurse", "The Nurse Family of Hanham, Gloucestershire", "charlesnurse@gmail.com")]
-        [TestCase("Taylor", "The Taylor Family of Winsley, Wiltshire", "charlesnurse@gmail.com")]
+//        [TestCase("Cardwell", "The Cardwell Family of Kirkham, Lancashire", "charlesnurse@hotmail.com")]
+//        [TestCase("Nurse", "The Nurse Family of Hanham, Gloucestershire", "charlesnurse@gmail.com")]
+//        [TestCase("Taylor", "The Taylor Family of Winsley, Wiltshire", "charlesnurse@gmail.com")]
         public void Convert_GEDCOM_To_CosmosDB(string name, string title, string owner)
         {
             //Arrange
