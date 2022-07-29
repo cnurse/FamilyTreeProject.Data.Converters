@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <PackageVersion>1.1.0-alpha-01</PackageVersion>
+    <PackageVersion>1.1.0-alpha-02</PackageVersion>
     <LangVersion>latestmajor</LangVersion>
     <RepositoryUrl>https://github.com/cnurse/FamilyTreeProject.Data.Converters</RepositoryUrl>
   </PropertyGroup>
